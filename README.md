@@ -6,6 +6,9 @@ A. Ahmed, Pneumonia sample X-Rays, GitHub. (2019). https://www.kaggle.com/ahmeda
 # 
 Thanks to Zafer CÖMERT and Burhan ERGEN for their contributions. All Rights Reserved. The codes of the study can be used by referring to the following article.
 
-Article Title: "..."
+#Article Title: 
+"COVID-19 Detection using Deep Learning Models to Exploit Social Mimic Optimization and Structured Chest X-ray Images using Fuzzy Color and Stacking Approaches"
+#Article Web Link and DOI link:
 
-#Mesut TOĞAÇAR #firat university, image processing ,deep learning, biomedical image processing email: mtogacar@firat.edu.tr | mtogacar@gmail.com | togacar.mesut@hotmail.com
+#Mesut TOĞAÇAR #Firat University, Image processing ,Deep learning, Biomedical image processing, Artificial intelligence, Decision support systems, Machine learning 
+E-mail: mtogacar@firat.edu.tr | mtogacar@gmail.com | togacar.mesut@hotmail.com
