@@ -9,7 +9,8 @@ Thanks to Zafer CÖMERT and Burhan ERGEN for their contributions. All Rights Res
 #
 # Article Title: 
 "COVID-19 Detection using Deep Learning Models to Exploit Social Mimic Optimization and Structured Chest X-ray Images using Fuzzy Color and Stacking Approaches"
-# Article Web Link: "..."
+# Article Web Link: 
+"..."
 #
 Mesut TOĞAÇAR, Fırat University 
 #
