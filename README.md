@@ -13,7 +13,6 @@ Thanks to Zafer CÖMERT and Burhan ERGEN for their contributions. All Rights Res
 "..."
 #
 Mesut TOĞAÇAR, Fırat University 
+E-mail: mtogacar@firat.edu.tr | mtogacar@gmail.com | togacar.mesut@hotmail.com
 #
 Image processing ,Deep learning, Biomedical image processing, Artificial intelligence, Decision support systems, Machine learning 
-#
-E-mail: mtogacar@firat.edu.tr | mtogacar@gmail.com | togacar.mesut@hotmail.com
