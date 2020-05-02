@@ -1,5 +1,6 @@
 # COVID-19 Dateset Web Link:
-J.P. Cohen, COVID-19 Chest X-Ray dataset or CT dataset, GitHub. (2020). https://github.com/ieee8023/covid-chestxray-dataset (accessed March 10, 2020).#
+J.P. Cohen, COVID-19 Chest X-Ray dataset or CT dataset, GitHub. (2020). https://github.com/ieee8023/covid-chestxray-dataset (accessed March 10, 2020).
+#
 T. Rahman, M. Chowdhury, A. Khandakar, COVID-19 Radiography Database, Kaggle. (2020). https://www.kaggle.com/tawsifurrahman/covid19-radiography-database/data# (accessed April 20, 2020).
 #
 # Normal and Pneumonia X-Ray Dataset Web Link:
