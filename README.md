@@ -11,6 +11,7 @@ The analysis data of the study can be used by referring to the following article
 "COVID-19 Detection using Deep Learning Models to Exploit Social Mimic Optimization and Structured Chest X-ray Images using Fuzzy Color and Stacking Approaches"
 # Article Web Link: 
 https://www.sciencedirect.com/science/article/abs/pii/S0010482520301736
+#
 https://doi.org/10.1016/j.compbiomed.2020.103805
 #
 Mesut TOĞAÇAR, Fırat University, E-mail: mtogacar@firat.edu.tr | mtogacar@gmail.com | togacar.mesut@hotmail.com
